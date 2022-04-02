@@ -20,4 +20,5 @@ rm
 cp
 mv
 rename
+clear
 
